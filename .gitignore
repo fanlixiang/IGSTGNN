@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs, checkpoints, and experiment outputs
+*.log
+*.pt
+*.pth
+
+# Large local datasets and generated artifacts
+*.npy
+*.npz
+*.csv
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+.kaggle_upload/
+data/xtraffic/*/
+
